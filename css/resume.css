@@ -46,7 +46,9 @@ h2 {
 .list-social-icons a:hover {
   color: #BD5D38;
 }
-
+.w3-bar-item.w3-button{
+  padding-right: 10px;
+}
 .list-social-icons a .fa-lg {
   font-size: 1.75rem;
 }

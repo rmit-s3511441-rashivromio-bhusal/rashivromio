@@ -18,6 +18,7 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
@@ -49,6 +50,8 @@
 .fa-ul > li {
   position: relative;
 }
+
+
 .fa-li {
   position: absolute;
   left: -2.14285714em;
